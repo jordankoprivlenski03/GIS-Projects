@@ -1,0 +1,1 @@
+Just a fun little map for a project with layers from CORINE Land cover from the European Space agency database.

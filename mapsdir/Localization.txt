@@ -1,0 +1,9 @@
+Probably the most complex map ever made by me and a team of two colleagues. It represents a geo-model, an analysis for the localization of a restaurant which can be a real life project. As the team lead I was responsible for the whole coordination, data collection, digitalization and visualization processes. The model features a complex analysis based on six factor categories, which consist of:
+ - Competition with several classes
+ - Population density
+ - Transportation network
+ - Cost of opening a business (rent)
+ - Desired objects to be near (such as business towers, schools, etc...)
+ - Undesirable objects
+
+Their weights have been carefully calibrated and the final output was normalized to be sufficient for the symbology process. The result is displayed both in raster (original) and vector format.

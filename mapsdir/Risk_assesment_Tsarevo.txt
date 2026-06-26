@@ -1,0 +1,6 @@
+Numerous devastating floods have occurred in Bulgaria in the last 4 years and somehow people were never prepared. This is why I chose to make a small pilot project to be further developed with more colleagues further down the line. It was a much needed dive in the fields 0f geology, geomorphology, hydrology, landscape studies and more. The aim of the map was to visualize the common risk factors regarding debris flows and to collect the knowledge needed for the future creation of a geo-model that is easy to understand from people and suitable for use by local authorities. It contains the following layers:
+- Catchment areas: Made by using several tools for DEM models, the layer visualizes where water flows on the terrain and from where the flows collect their waters. That way only the catchments that have a direct impact on Tsarevo have been selected to establish the risk assessment zone for the other layers.
+- Geologic coverage - made with the digitalization of old precise geologic maps for the country. Similar maps are almost absent on bulgarian databases.
+- Deforestation heat map - made via the comparison of two satellite images taken 5 years apart with the change detection module in ArcGIS Pro.
+
+Further work is required but the experience was priceless and there is real value in projects like this.
